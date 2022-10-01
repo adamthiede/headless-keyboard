@@ -1,5 +1,5 @@
 #!/usr/bin/python
-# majority copied from SO
+# majority copied from SO https://stackoverflow.com/questions/5060710/format-of-dev-input-event
 import struct
 import time
 import sys
